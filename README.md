@@ -5,11 +5,11 @@
 
 
 <p align="center">
-  <a aria-label="Prando" href="https://github.com/gprando/">
-    <img src="https://img.shields.io/github/followers/gprando?style=social"></img>
+  <a aria-label="Prando" href="https://github.com/hacklock/">
+    <img src="https://img.shields.io/github/followers/hacklock?style=social"></img>
   </a>
-    <img src="https://img.shields.io/github/last-commit/gprando/scripts"></img>
-    <img src="https://img.shields.io/github/languages/count/gprando/scripts"></img>
+    <img src="https://img.shields.io/github/last-commit/hacklock/scripts"></img>
+    <img src="https://img.shields.io/github/languages/count/hacklock/scripts"></img>
 </p>
 
 
@@ -46,17 +46,7 @@
   Em qualquer pasta `nomeScript.sh`
 
 
-## 🤔 Como contribuir
 
-Se quiser contribuir para esse repositório aqui, seja corrigindo algum problema, adicionando comentários ou melhorando a documentação, você pode seguir esse tutorial abaixo:
-
-- Faça [um fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) desse repositório;
-- Entre no seu perfil no GitHub e faça um clone do repositório que você fez um *fork*;
-- Crie uma *branch* com a sua alteração: `git checkout -b minha-alteracao`;
-- Faça as alterações necessárias no código ou na documentação;
-- Faça *commit* das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça *push* para a sua *branch*: `git push origin minha-alteracao`;
-- Agora é só abrir a sua *pull request* no repositório que você fez o *fork*;
 
 Depois que o *merge* da sua *pull request* for feito, você pode deletar a sua *branch*.
 
@@ -67,5 +57,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 
-com  :heart: [Gabriel Prando](https://github.com/gprando)    
+com  :heart: [Wilton R. Cruz](https://github.com/hacklock)    
 
